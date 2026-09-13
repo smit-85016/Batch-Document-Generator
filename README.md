@@ -46,10 +46,9 @@ For generating hundreds of documents locally from a `.csv` database, this Python
 ```markdown
 ## 🛠️ Installation & Setup Guide
 
-Follow these simple steps to run the Python document generator on your local machine:```
+Follow these simple steps to run the Python document generator on your local machine
 
-
-### 1. Install Dependencies
+```### 1. Install Dependencies
 By default, Python cannot edit Microsoft Word documents. We need to install `docxtpl`, a lightweight library that gives Python the ability to read and write `.docx` files. Open your terminal or command prompt and run:
 ```bash
 pip install docxtpl
