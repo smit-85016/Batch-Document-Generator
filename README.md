@@ -51,8 +51,6 @@ By default, Python cannot edit Microsoft Word documents. We need to install `doc
 ```bash
 pip install docxtpl
 
-```
-
 ### 2. Prepare Your Files (The Inputs)
 
 You need to provide two files in the same folder as your Python script:
