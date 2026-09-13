@@ -44,7 +44,7 @@ For generating hundreds of documents locally from a `.csv` database, this Python
    cd Batch-Document-Generator
 
 ```markdown
-## 🛠️ Installation & Setup Guide
+### 🛠️ Installation & Setup Guide
 
 Follow these simple steps to run the Python document generator on your local machine
 
